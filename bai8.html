@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 8</title>
+</head>
+<body>
+<script>
+    // let array = [];
+    // for (let i = 0; i < 10; i++) {
+    //     array.push(prompt("Nhập: "));
+    // }
+    // document.write(array.sort(function (a,b) {
+    //     return b-a;
+    // }))
+
+    function bubbleSort() {
+        let arr = [1,2,3,4,33,22,333,77,6,5,4,7,5,4,11];
+        let len = arr.length;
+        for (let i = 0; i < len; i++) {
+            for (let j = 0; j < len; j++) {
+                if (arr[j] < arr[j + 1]) {
+                    let temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+        }
+        document.write(arr);
+    }
+
+    bubbleSort();
+
+
+</script>
+</body>
+</html>

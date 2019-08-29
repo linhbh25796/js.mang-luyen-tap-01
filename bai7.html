@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 7</title>
+</head>
+<body>
+<script>
+    let array = [];
+    for (let i = 0; i < 5; i++) {
+        array.push(prompt("Nhập: "));
+    }
+    let v = prompt("Nhập thêm 1 số: ");
+    for (let i = 0; i < array.length; i++) {
+        if (array[i] === v) {
+            array.splice(i,1);
+            array.push('0');
+        }
+
+    } document.write(array);
+
+</script>
+
+</body>
+</html>

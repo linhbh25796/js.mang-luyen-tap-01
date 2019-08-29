@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 3</title>
+</head>
+<body>
+<script>
+    let x = [1, 22, 33, 3, 5, 6, 73, 55, 222, 100];
+    let max = x[0];
+    let index = 0;
+    for (let i = 0; i < x.length; i++) {
+        if (x[i] > max) {
+            max = x[i];
+            index = i;
+        }
+    }
+    document.write("Max = " + max + " at index: " + "x["+index+"]");
+    let sum =0;
+    for (let i=0;i<10;i++){
+        sum += x[i];
+    }
+    sum = sum/10; alert(sum);
+</script>
+</body>
+</html>
