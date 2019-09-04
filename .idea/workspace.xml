@@ -19,17 +19,38 @@
       <change afterPath="$PROJECT_DIR$/../BaiTapCTDK02/bai4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BaiTapCTDK02/bai5.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BaiTapCTDK02/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam01/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam01/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam01/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam01/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam01/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapSuDungHam02/bai9.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BangCuuChuong/.idea/BangCuuChuong.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BangCuuChuong/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BangCuuChuong/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BangCuuChuong/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BangCuuChuong/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuildDateClass/date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuildDateClass/v.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/CalculatorEasy2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/calculator.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CaroSimple/carosimple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiNhietDo/.idea/ChuyenDoiNhietDo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiNhietDo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiNhietDo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiNhietDo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiNhietDo/temperatureconvert.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DaoNguocPhanTuMang/.idea/DaoNguocPhanTuMang.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DaoNguocPhanTuMang/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DaoNguocPhanTuMang/.idea/modules.xml" afterDir="false" />
@@ -40,6 +61,9 @@
       <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faking Textarea on Typing/.idea/FakingTextareaOnTyping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faking Textarea on Typing/fakingtext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FeetToMeter/feettometer.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FindValueInArray/.idea/FindValueInArray.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FindValueInArray/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FindValueInArray/.idea/modules.xml" afterDir="false" />
@@ -51,11 +75,18 @@
       <change afterPath="$PROJECT_DIR$/../GoodFastCheap/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GoodFastCheap/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GoodFastCheap/goodFastCheap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HamKiemTraSNT/.idea/HamKiemTraSNT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HamKiemTraSNT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HamKiemTraSNT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HamKiemTraSNT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HamKiemTraSNT/kiemtrasonguyento.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HienThiSoNguyenTo/.idea/HienThiSoNguyenTo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HienThiSoNguyenTo/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HienThiSoNguyenTo/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HienThiSoNguyenTo/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HienThiSoNguyenTo/songuyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HuongDoiTuong/baidoc1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HuongDoiTuong/nho.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/LuyenTapMang01.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -65,14 +96,32 @@
       <change afterPath="$PROJECT_DIR$/bai3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai7.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai8.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/.idea/LuyenTapMang02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapMang02/bai3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SuDungHamCoSanCuaMang/bai1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SuDungHamCoSanCuaMang/bai2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SuDungHamCoSanCuaMang/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoVaGoiHam/.idea/TaoVaGoiHam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoVaGoiHam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoVaGoiHam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoVaGoiHam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoVaGoiHam/taovagoiham.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ThaoTacMang/thuchanhmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/.idea/ThucHanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh/thuchanh.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ThucHanhDoWhile/.idea/ThucHanhDoWhile.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ThucHanhDoWhile/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ThucHanhDoWhile/.idea/modules.xml" afterDir="false" />
@@ -97,11 +146,17 @@
       <change afterPath="$PROJECT_DIR$/../TimMaxInArray/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TimMaxInArray/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TimMaxInArray/timmax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimMinCuaMang/.idea/TimMinCuaMang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimMinCuaMang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimMinCuaMang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimMinCuaMang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimMinCuaMang/timmin.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TuDien/.idea/TuDien.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TuDien/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TuDien/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TuDien/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TuDien/dictionary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UngDungQLSP/qlsp.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VongLap01/bai1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VongLap01/bai4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VongLap01/bai5.html" afterDir="false" />
@@ -121,6 +176,9 @@
       <change beforePath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Calculator/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DoiTien/ChuyenDoiTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoiTien/ChuyenDoiTien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai6.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +194,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Q5LFK9KOCHuhWF2wpBp35fmQhO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -144,6 +202,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,7 +236,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567055405876</updated>
-      <workItem from="1567055406953" duration="12669000" />
+      <workItem from="1567055406953" duration="13470000" />
+      <workItem from="1567135106909" duration="848000" />
+      <workItem from="1567589905772" duration="199000" />
     </task>
     <servers />
   </component>
@@ -189,7 +250,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -8,18 +8,23 @@
 </body>
 <script>
     let array = [];
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 3; i++) {
         array.push(prompt("Nhập: "));
     }
     let v = array.push(prompt("Nhập thêm 1 số: "));
+    let check = true;
     for (let i = 0; i < array.length; i++) {
-        if (array[i] = v) {
-            document.write("V is in the array ");
-        } else {
-            document.write("V is not in the array");
+        if (array[i] == v) {
+            check = false;
         }
     }
+    if (check) {
+        document.write("V is in the array ");
+    } else {
+        document.write("V is not in the array");
 
+
+    }
 
 </script>
 </html>
